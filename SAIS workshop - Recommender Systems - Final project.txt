@@ -1,0 +1,27 @@
+﻿SAIS workshop - Recommender systems
+Final project
+Dataset
+The dataset used is from a GroupLens research group.
+GroupLens Research has collected and made available rating data sets from the MovieLens web site (https://movielens.org).
+https://grouplens.org/datasets/movielens/ 
+
+MovieLens Latest Datasets
+These datasets will change over time, and are not appropriate for reporting research results. We will keep the download links stable for automated downloads. We will not archive or make available previously released versions.
+
+
+Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.
+Task
+Final output of the project will be a presentation about the executed work.
+The goal of the project (in a nutshell) is to build a recommender system for the aforementioned dataset.
+
+
+Some high level steps/milestones of the projects would include:
+* EDA (exploratory data analysis) of the dataset 
+* Defining a valid metric for the algorithm comparison (How will you compare the efficiency of two algorithms ?)
+* Defining a list of algorithms to be compared and corresponding data it will use (various algos can use various info)
+* Comparison of algorithms (both metric-wise and complexity/execution time etc.)
+* Future ideas/steps of development?
+
+
+Additional info
+Referring to the suggestions which I received during lecture, I wanted to give a less restricting and more open project. The main idea is to give you as much freedom as possible concerning the execution of the project. Besides existing data provided in the dataset, you can choose any additional data (from the internet) related to the movies in the database, meaning you can enrich the original data anyway you like. It’s not requested at all, just pointing out that you can do that if something interesting pops up in your mind.
