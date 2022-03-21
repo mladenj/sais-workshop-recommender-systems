@@ -1,6 +1,8 @@
 ﻿SAIS workshop - Recommender systems
 Final project
-Dataset
+
+DATASET
+
 The dataset used is from a GroupLens research group.
 GroupLens Research has collected and made available rating data sets from the MovieLens web site (https://movielens.org).
 https://grouplens.org/datasets/movielens/ 
@@ -8,9 +10,10 @@ https://grouplens.org/datasets/movielens/
 MovieLens Latest Datasets
 These datasets will change over time, and are not appropriate for reporting research results. We will keep the download links stable for automated downloads. We will not archive or make available previously released versions.
 
-
 Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018.
-Task
+
+TASK
+
 Final output of the project will be a presentation about the executed work.
 The goal of the project (in a nutshell) is to build a recommender system for the aforementioned dataset.
 
@@ -23,5 +26,5 @@ Some high level steps/milestones of the projects would include:
 * Future ideas/steps of development?
 
 
-Additional info
+Additional info:
 Referring to the suggestions which I received during lecture, I wanted to give a less restricting and more open project. The main idea is to give you as much freedom as possible concerning the execution of the project. Besides existing data provided in the dataset, you can choose any additional data (from the internet) related to the movies in the database, meaning you can enrich the original data anyway you like. It’s not requested at all, just pointing out that you can do that if something interesting pops up in your mind.
